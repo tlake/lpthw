@@ -1,3 +1,7 @@
+# run to be prompted with code
+# run with english as an argument to be prompted with english
+
+
 import random
 from urllib import urlopen
 import sys
